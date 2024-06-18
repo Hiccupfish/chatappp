@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1718741705 source:c:\users\tshidiso\chatappp\main.cpp
+	<iostream>
+	"common.h"
+	<winsock2.h>
+	<WS2tcpip.h>
+
+1718741911 source:c:\users\tshidiso\chatappp\client.cpp
+	"common.h"
+	<WS2tcpip.h>
+	<winsock2.h>
+	<iostream>
+	<string>
+
+1718742012 c:\users\tshidiso\chatappp\common.h
+	<winsock2.h>
+	<string>
+
+1718741995 source:c:\users\tshidiso\chatappp\common.cpp
+	"common.h"
+	<iostream>
+
+1718741835 source:c:\users\tshidiso\chatappp\serversocket.cpp
+	"common.h"
+	<WS2tcpip.h>
+	<winsock2.h>
+	<iostream>
+
